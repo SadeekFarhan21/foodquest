@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390113831764",
+    "project_id": "foodquest-dalispring26",
+    "storage_bucket": "foodquest-dalispring26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390113831764:android:d5a721a95d843d113136c1",
+        "android_client_info": {
+          "package_name": "com.example.foodquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCyY_ZHcHbVW5xJhB_ItJeW25H8KcWTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
